@@ -1,0 +1,13 @@
+import java.io.*;
+
+public class Print1
+{
+	public static void main(String[] args)
+	{
+
+		FirstJava J=new FirstJava();
+		j.print();		
+
+	}
+
+}
